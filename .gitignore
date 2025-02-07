@@ -1,0 +1,5 @@
+# Remove input system configurators as they are designed for the SIN engine
+
+src/input.h
+src/input.cpp
+src/keycodes.h
